@@ -197,3 +197,34 @@ Concatenating Strings with the Plus Equals Operator
 let myStr = "This is the first sentence. ";
 myStr += "This is the second sentence."
 _________________________________________________
+Constructing Strings with Variables
+
+// Only change code below this line
+const myName = "Stanislav";
+const myStr = "My name is " + myName + " and I am well!";
+_________________________________________________
+Appending Variables to Strings
+
+// Change code below this line
+const someAdjective = "amazing";
+let myStr = "Learning to code is ";
+myStr += someAdjective;
+_________________________________________________
+Find the Length of a String
+
+// Setup
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+// Only change code below this line
+lastNameLength = lastName.length;
+_________________________________________________
+Use Bracket Notation to Find the First Character in a String
+
+// Setup
+let firstLetterOfLastName = "";
+const lastName = "Lovelace";
+
+// Only change code below this line
+firstLetterOfLastName = lastName[0]; // Change this line
+_________________________________________________
