@@ -98,3 +98,33 @@ Divide One Number by Another with JavaScript
 
 const quotient = 66 / 33;
 _________________________________________________
+Increment a Number with JavaScript
+
+let myVar = 87;
+
+// Only change code below this line
+myVar++;
+_________________________________________________
+Decrement a Number with JavaScript
+
+let myVar = 11;
+
+// Only change code below this line
+myVar--;
+_________________________________________________
+Create Decimal Numbers with JavaScript
+
+const ourDecimal = 5.7;
+
+// Only change code below this line
+
+let myDecimal = 5.7;
+_________________________________________________
+Multiply Two Decimals with JavaScript
+
+const product = 2.0 * 2.5;
+_________________________________________________
+Divide One Decimal by Another with JavaScript
+
+const quotient = 4.4 / 2.0; // Change this line
+_________________________________________________
