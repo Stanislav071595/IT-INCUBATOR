@@ -228,3 +228,36 @@ const lastName = "Lovelace";
 // Only change code below this line
 firstLetterOfLastName = lastName[0]; // Change this line
 _________________________________________________
+Understand String Immutability
+
+// Setup
+let myStr = "Jello World";
+
+// Only change code below this line
+myStr = "Hello World"; // Change this line
+// Only change code above this line
+_________________________________________________
+Use Bracket Notation to Find the Nth Character in a String
+
+// Setup
+const lastName = "Lovelace";
+
+// Only change code below this line
+const thirdLetterOfLastName = lastName[2]; // Change this line
+_________________________________________________
+Use Bracket Notation to Find the Last Character in a String
+
+// Setup
+const lastName = "Lovelace";
+
+// Only change code below this line
+const lastLetterOfLastName = lastName[lastName.length -1]; // Change this line
+_________________________________________________
+Use Bracket Notation to Find the Nth-to-Last Character in a String
+
+// Setup
+const lastName = "Lovelace";
+
+// Only change code below this line
+const secondToLastLetterOfLastName = lastName[lastName.length - 2]; // Change this line
+_________________________________________________
