@@ -82,3 +82,19 @@ fact = "is awesome!";
 console.log(FCC, fact); // Change this line
 
 _________________________________________________
+Add Two Numbers with JavaScript
+
+const sum = 10 + 10;
+_________________________________________________
+Subtract One Number from Another with JavaScript
+
+const difference = 45 - 33;
+_________________________________________________
+Multiply Two Numbers with JavaScript
+
+const product = 8 * 10;
+_________________________________________________
+Divide One Number by Another with JavaScript
+
+const quotient = 66 / 33;
+_________________________________________________
