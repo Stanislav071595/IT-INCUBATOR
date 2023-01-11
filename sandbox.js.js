@@ -128,3 +128,29 @@ Divide One Decimal by Another with JavaScript
 
 const quotient = 4.4 / 2.0; // Change this line
 _________________________________________________
+Finding a Remainder in JavaScript
+
+const remainder = 11 % 3;
+_________________________________________________
+Compound Assignment With Augmented Addition
+
+let a = 3;
+let b = 17;
+let c = 12;
+
+// Only change code below this line
+a += 12;
+b += 9;
+c += 7;
+_________________________________________________
+Compound Assignment With Augmented Subtraction
+
+let a = 11;
+let b = 9;
+let c = 3;
+
+// Only change code below this line
+a -= 6;
+b -= 15;
+c -= 1;
+_________________________________________________
