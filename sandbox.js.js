@@ -340,3 +340,45 @@ myArray.shift();
 // Only change code below this line
 myArray.unshift(["Paul", 35]);
 _________________________________________________
+Shopping List
+
+const myList = [
+  ["Bread", 14],
+  ["Milk", 10],
+  ["Batteries", 4], 
+  ["Navigator", 1],
+  ["Televizor", 1], 
+  ["DVD-player", 2],
+  ["Yogart", 14], 
+];
+_________________________________________________
+Write Reusable JavaScript with Functions
+
+function reusableFunction() {
+  console.log("Hi World");
+}
+
+reusableFunction();
+_________________________________________________
+Passing Values to Functions with Arguments
+
+function functionWithArgs(par1, par2) {
+  console.log(par1 + par2)
+}
+
+functionWithArgs(1, 2);
+
+function functionWithArgs(par1, par2) {
+  console.log(par1 + par2)
+}
+
+functionWithArgs(7, 9);
+_________________________________________________
+Return a Value from a Function with Return
+
+function timesFive (num) {
+  return num * 5;
+}
+
+const answer = timesFive (5);
+_________________________________________________
