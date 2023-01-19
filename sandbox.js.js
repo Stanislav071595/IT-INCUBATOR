@@ -1042,5 +1042,14 @@ for (var i = 1; i < 10; i += 2) {
 // Only change code below this line
 _________________________________________________
 
+// Setup
+const myArray = [];
+for (var i = 9; i > 0; i -= 2){
+  myArray.push(i);
+}
+// Only change code below this line
+_________________________________________________
+
+
 
 
