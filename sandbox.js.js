@@ -1012,4 +1012,12 @@ const myPlants = [
 const secondTree = myPlants[1].list[1];
 _________________________________________________
 
+// Setup
+const myArray = [];
+  for (var i = 1; i < 6; i++) {
+    myArray.push(i);
+  }
+// Only change code below this line
+ _________________________________________________
+ 
  
