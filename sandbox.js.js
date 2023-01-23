@@ -1059,4 +1059,15 @@ for (let i = 0; i < myArr.length; i++) {
 // Only change code below this line
 _________________________________________________
 
+// Setup
+const myArray = [];
+let i = 10;
+
+// Only change code below this line
+ do{
+  myArray.push(i);
+  i++;
+}while (i < 11)
+_________________________________________________
+
 
